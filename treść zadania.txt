@@ -1,0 +1,12 @@
+Sklep internetowy - administracja
+Panel administracyjny sklepu internetowego, który umo¿liwia zarz¹dzanie towarem i klientami sklepu wielu administratorom. 
+1. wiele kont administracyjnych (bez rejestracji)
+2. przegl¹danie/edycja/dodawanie/usuwanie danych o towarze (nazwa, kategoria, cena, liczba sztuk) - 2 pkt
+3. przegl¹danie danych o u¿ytkownikach (klientach sklepu) - 1 pkt
+4. zabezpieczenie przed jednoczesn¹ edycj¹ przedmiotów/zamówieñ - 1 pkt
+5. system integracji z hurtowni¹: realizacja dostawy przez pobranie pliku xml z danymi dostawy (jaki towar, z jakiej kategorii, w jakiej iloœci) i automatyczne 
+6. uzupe³nienie bazy danych - 2pkt
+7. automatyczna dostawa - wyzwalana "rêcznie" oraz w ustalonych godzinach - 1pkt
+8. zapamiêtywanie kierunków sortowañ na listach produktów/u¿ytkowników - 1pkt
+9. lista produktów, których koñczy siê dostêpnoœæ - 1pkt
+10. lista niezrealizowanych zamówieñ - 1pkt
