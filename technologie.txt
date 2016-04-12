@@ -1,14 +1,16 @@
-Punktacja elementÛw technologii serwletÛw:
+DZIA≈ÅA!
+
+Punktacja element√≥w technologii serwlet√≥w:
 1. Parametry inicjalizujace  -1pkt
-	Nie trudne do wykorzystania wiÍc na pewno gdzieú wstawimy.
+	Nie trudne do wykorzystania wiƒôc na pewno gdzie≈õ wstawimy.
 2. Filtry - 1pkt
-	Wykorzystamy przy sprawdzaniu autoryzacji (jak na wyk≥adzie)
+	Wykorzystamy przy sprawdzaniu autoryzacji (jak na wyk≈Çadzie)
 3. Sesje - 1pkt
-	Utworzymy po zalogowaniu øeby trawa≥a jakiú czas.
+	Utworzymy po zalogowaniu ≈ºeby trawa≈Ça jaki≈õ czas.
 4. Ciasteczka - 1pkt
-	Proste ciasteczka do wypisywania jakiegoú komunikatu, jak w zadaniu z zajÍÊ.
-5. Klasy nas≥uchujπce (co najmniej 2 klasy) - 2 pkt
-	Tu nie mam pomys≥u ale teø chyba jesteúmy w stanie to zrobiÊ na dodatek, øe aø za 2 pkt.
+	Proste ciasteczka do wypisywania jakiego≈õ komunikatu, jak w zadaniu z zajƒôƒá.
+5. Klasy nas≈ÇuchujƒÖce (co najmniej 2 klasy) - 2 pkt
+	Tu nie mam pomys≈Çu ale te≈º chyba jeste≈õmy w stanie to zrobiƒá na dodatek, ≈ºe a≈º za 2 pkt.
 6. Znaczniki JSTL (co najmniej 3 znaczniki) - 1 pkt
 	??????????????????????? chyba bedzie na wykladzie za tydzien
 7. AJAX - 2 pkt
