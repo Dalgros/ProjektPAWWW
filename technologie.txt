@@ -1,5 +1,4 @@
-DZIAŁA!
-
+﻿BUMBUMBUM
 Punktacja elementów technologii serwletów:
 1. Parametry inicjalizujace  -1pkt
 	Nie trudne do wykorzystania więc na pewno gdzieś wstawimy.
